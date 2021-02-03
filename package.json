@@ -1,0 +1,15 @@
+{
+    "name": "Voice Makers Bot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "botvoicemakers.js"
+    "scripts": {
+        "test": "echo \"Error: no test especified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Bruno França Benevides Nunes",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "12.5.1"
+    }
+}
